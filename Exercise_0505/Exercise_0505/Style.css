@@ -1,0 +1,30 @@
+﻿body {
+}
+
+table.OutLine {
+    border-collapse: collapse;
+    outline: 2px solid;
+    padding: 20px;
+    font-family: sans-serif;
+    
+}
+
+.first-cell {
+    font-weight: normal;
+}
+
+.first-row {
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+    font-weight: bold;
+}
+
+.first-col {
+    border-bottom: none;
+    font-weight: bold;
+}
+
+.col {
+    outline: 1px solid;
+}

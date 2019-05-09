@@ -1,0 +1,6 @@
+/Users/miyukinakamura/Projects/Exercise_0505/Exercise_0505/bin/Exercise_0505.dll
+/Users/miyukinakamura/Projects/Exercise_0505/Exercise_0505/bin/Exercise_0505.pdb
+/Users/miyukinakamura/Projects/Exercise_0505/Exercise_0505/obj/Debug/Exercise_0505.csprojAssemblyReference.cache
+/Users/miyukinakamura/Projects/Exercise_0505/Exercise_0505/obj/Debug/Exercise_0505.csproj.CoreCompileInputs.cache
+/Users/miyukinakamura/Projects/Exercise_0505/Exercise_0505/obj/Debug/Exercise_0505.dll
+/Users/miyukinakamura/Projects/Exercise_0505/Exercise_0505/obj/Debug/Exercise_0505.pdb

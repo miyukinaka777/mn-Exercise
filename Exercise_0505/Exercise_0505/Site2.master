@@ -1,0 +1,14 @@
+﻿<%@ Master Language="C#" Inherits="Exercise_0505.Site2" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+	<title>Site2</title>
+</head>
+<body>
+<div id="container">
+<form runat="server">
+    <asp:ContentPlaceHolder id="contentPlaceHolder" runat="server" /> 
+</form>
+</div>
+</body>
+</html>
